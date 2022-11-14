@@ -39,3 +39,18 @@ body {
   font-size: 20px;
 }
 
+.country-info{
+  list-style: none;
+}
+
+.country-info div {
+  display: flex;
+}
+.country-info div img{
+  width: 150px;
+  margin-right: 50px;
+}
+
+.country-info p {
+  font-size: 20px;
+}
